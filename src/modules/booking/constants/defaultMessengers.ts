@@ -8,7 +8,7 @@ export const defaultMessengers = {
     description: 'با توجه به<b> تماس تلفنی در زمان نوبت</b>، لطفا شماره موبایل کاربر انتخابی در دسترس باشد.',
   },
   whatsapp: {
-    name: 'واتساپ',
+    name: 'WhatsApp',
     type: 'whatsapp',
     id: 2,
     title: 'تماس با شما در زمان نوبت',
